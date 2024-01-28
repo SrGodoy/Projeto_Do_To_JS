@@ -1,1 +1,1 @@
-Projeto Simples em Javascript
+Projeto Simples em Javascript, de criar tarefa, excluir e concluir
